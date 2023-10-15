@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "dependencies": {
+    "@supercharge/strings": "^2.0.0",
+    "chai": "^4.3.10",
+    "cucumber": "^6.0.7",
+    "cucumber-html-reporter": "^7.1.1",
+    "puppeteer": "^21.3.8",
+    "selenium-webdriver": "^4.14.0",
+    "webdriver-manager": "^12.1.9"
+  }
+}
