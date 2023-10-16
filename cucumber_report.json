@@ -1,0 +1,20 @@
+{
+    "features": [
+      {
+        "id": "Login-1",
+        "uri": "./features/Login.feature",
+        "keyword": "Feature",
+        "name": "Login",
+        "tags": [],
+        "elements": [
+          {
+            "id": "scenario-1",
+            "keyword": "Scenario",
+            "name": "Successful login",
+            "tags": [],
+            "steps": []
+          }
+        ]
+      }
+    ]
+  }

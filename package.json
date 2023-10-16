@@ -8,6 +8,7 @@
   "dependencies": {
     "@supercharge/strings": "^2.0.0",
     "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
     "cucumber": "^6.0.7",
     "cucumber-html-reporter": "^7.1.1",
     "puppeteer": "^21.3.8",
